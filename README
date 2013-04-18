@@ -1,0 +1,9 @@
+DAMA
+
+To use this program first compile and run the server.
+Then compile and run either the swing based client or the console based client.
+
+Issues:
+
+Currently cannot connect to other computers perhaps due to a firewall issue.
+It is set so that the client automatically connects to the location of the server.
