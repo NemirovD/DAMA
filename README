@@ -7,4 +7,4 @@ Currently Works in Ubuntu and Windows 7
 Issues:
 
 Currently cannot connect to other computers perhaps due to a firewall issue.
-It is set so that the client automatically connects to the location of the server.
+It is set so that the client automatically connects to localhost.
