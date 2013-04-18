@@ -2,6 +2,7 @@ DAMA
 
 To use this program first compile and run the server.
 Then compile and run either the swing based client or the console based client.
+Currently Works in Ubuntu and Windows 7
 
 Issues:
 
